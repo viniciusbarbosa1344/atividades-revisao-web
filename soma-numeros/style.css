@@ -1,0 +1,27 @@
+div {
+    padding: 10px;
+}
+
+input {
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+label {
+    font-weight: bold;
+    color: blue;
+}
+
+button {
+    border-radius: 8px;
+    
+}
+
+#result {
+    border: 1px solid black;
+    width: 120px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}

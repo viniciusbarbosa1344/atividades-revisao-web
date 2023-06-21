@@ -1,0 +1,55 @@
+p{
+    font-weight: bold;
+}
+
+input{
+    background-color: lightgreen;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.input-rg {
+    width: 200px;
+}
+
+.input-nome {
+    width: 300px;
+}
+
+.input-responsavel {
+    width: 250px;
+}
+
+.input-numero {
+    width: 200px;
+}
+
+.input-email {
+    width: 300px;
+}
+
+select{
+    background-color: lightgreen;
+    padding: 5px;
+}
+
+div{
+    padding-top: 20px;
+}
+button {
+    background-color: darkgreen;
+    color: white;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+#main-div{
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    justify-content: center;
+    
+}
+body{
+    background-color: black;
+}
